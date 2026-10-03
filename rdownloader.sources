@@ -1,0 +1,8 @@
+# rDownloader for apt (Debian, Ubuntu): /etc/apt/sources.list.d/rdownloader.sources
+# The key: /etc/apt/keyrings/rdownloader.asc from https://degoya.github.io/rdownloader-packages/rdownloader.asc
+# (fingerprint 47562DABFCFC3F17C78567CE395FA7C2B11721D1).
+Types: deb
+URIs: https://degoya.github.io/rdownloader-packages/deb
+Suites: stable
+Components: main
+Signed-By: /etc/apt/keyrings/rdownloader.asc

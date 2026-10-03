@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 03 Oct 2026 14:20:50 +0000
+Description: rDownloader packages
+Label: rDownloader
+Origin: rDownloader
+Suite: stable
+MD5Sum:
+ 0169bf92d29d42ca525735fa1d9f3b8e             1758 main/binary-amd64/Packages
+ b75ab005fdc926979ad294e6c575bcda              819 main/binary-amd64/Packages.gz
+ 8fd23b3b60301795f854b401a0f5364c             1758 main/binary-arm64/Packages
+ 21fe592525ac179d5a4020774e996e09              816 main/binary-arm64/Packages.gz
+SHA1:
+ 5429081a7a1a833196b3c22c52d9f98c8ff4bf08             1758 main/binary-amd64/Packages
+ 5ad29631255c30dce74433e8c7fdf2053fcd3714              819 main/binary-amd64/Packages.gz
+ 9044da48d7a49686467ddd8659e899e28feed6a3             1758 main/binary-arm64/Packages
+ 9d5af853eb7a7a5db4e41c8ab42f49ad6ec6dd9a              816 main/binary-arm64/Packages.gz
+SHA256:
+ f24c4507a795bf3db4e2c5a1d2a6556887ff589d90f35458d12bed83ebfc16d1             1758 main/binary-amd64/Packages
+ 6674a29600c4fd4d556d65aed81961c36650f4b4b60d2d1e3258a888c242a4d2              819 main/binary-amd64/Packages.gz
+ ec7cf602f25ef656447f216f28a9b3466b580d4490c9ec468b5057b35f10c1b7             1758 main/binary-arm64/Packages
+ 62d2743dafffce5e5349a662b4ce984fc81a20d752dfc5314a8b0a6d7d593a98              816 main/binary-arm64/Packages.gz
+SHA512:
+ 29ae1fd56cd4279be2fe8cec698624f2ee8a29fa6dbae6a473d61e2522fca03292d914ab3bf871e8c741f09977aba04dad02d5cda810549497ae561811bbab23             1758 main/binary-amd64/Packages
+ dbab32169e683ecb069223b45a9c150a21cf3c1985fb4eb6cef746f0ee4645933f05ae26bfc277996458e03cc93208eeec8acc893e85ceded92c290a8af020dc              819 main/binary-amd64/Packages.gz
+ 6ed7ac4d49aec38e4a1b4b3474058a1f9bd4c508936ae53c7304b566d96a7fc9701f5aca87f384292988382aa96560e7ec3586f08551ac8a05b549ff3f945715             1758 main/binary-arm64/Packages
+ a19447a6c7689a66de87a7166124d085b0cb0acb91db76c677c4b37bfb6efc2060b32c957daf772abb06794f187b11044c0369bb6becad76d8fd92b1e94b96d9              816 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRHVi2r/Pw/F8eFZ845X6fCsRch0QUCasEPQgAKCRA5X6fCsRch
+0XjAAQC+KU+egjyEVc59Vy3rEJpZp4ksaqDuvfI9lKJgldIgGAEA0XVGdn3N9zyf
+i7HkvMd9A4NH40Q0G9XG0BQDmR9T7AU=
+=g/pu
+-----END PGP SIGNATURE-----
