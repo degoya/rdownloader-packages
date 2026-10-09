@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 09 Oct 2026 21:54:52 +0000
+Description: rDownloader packages
+Label: rDownloader
+Origin: rDownloader
+Suite: stable
+MD5Sum:
+ cd5e48a19a3826cfc2d24451c398d7de             1762 main/binary-amd64/Packages
+ 7e79975ceea82de2d9a16d8cbf7109d0              811 main/binary-amd64/Packages.gz
+ 3977308d25f3578546d1eb61389e70d1             1762 main/binary-arm64/Packages
+ bdd8e65da4e587220506cbcb414cc593              815 main/binary-arm64/Packages.gz
+SHA1:
+ 74cc83afd3c4d0efc2c9b177cc65def5d57b14da             1762 main/binary-amd64/Packages
+ 8f856afa7c252bb60bde874154ed9631bf834fcb              811 main/binary-amd64/Packages.gz
+ 39e010a904d839b4bad3c8e6af57f1327eabf6b4             1762 main/binary-arm64/Packages
+ addfb56826f24d1b0fa2ad51c356558f5c3e1a46              815 main/binary-arm64/Packages.gz
+SHA256:
+ 285ef1a36e37b372f00c74e230c13f4443f4777ee377e8d750d837ec09b046c3             1762 main/binary-amd64/Packages
+ 878f14e858090f2c0d408016e7727ef32eca2511552ca8e1df56c0b3dca46c36              811 main/binary-amd64/Packages.gz
+ 6930728b409eda1cf65acac1c5a56b69f58eab3a6f802114b2870ad8cd110245             1762 main/binary-arm64/Packages
+ 1b4935d39507de246da76d2a43cc58240ae60aba01781558732338ba249d9e62              815 main/binary-arm64/Packages.gz
+SHA512:
+ 71d05f0790089429a7e0a0f2d9cc9d644d705fa4305eab6a454a6c5c7ffcf0fe62508e78901c55ac21fb728a23b94d89a3a097bf1f8927843f0678accff5831d             1762 main/binary-amd64/Packages
+ b474bfcd3d5d664743d1f993efba2322c77e23897f9d93d5acc640b5340dba3533cdad8e114610de4b82cc3432cc7c7d45e9d205a9dbea5d0c2be9eec03a094c              811 main/binary-amd64/Packages.gz
+ 95bc79cd92bd2e3f9eef4b9f6a7e06f7cdffcb382275feba1784beff4d492ea69aa7e4ed0c9a6d1b32309e488ad0357f439b5497990c33dc11b14e96cc85f923             1762 main/binary-arm64/Packages
+ d8650a547dfd59b259e94905b84a7e5e8c286713360b2292d528cd0ced3dd5f33cc4d679e2563fe69cb04946bec22659f05296adfd34fd9d35c8dd8d60da11ec              815 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRHVi2r/Pw/F8eFZ845X6fCsRch0QUCaslirAAKCRA5X6fCsRch
+0ZevAQDWPhDq0o5vAXyuS0tjxrTkfW1vifPyaLLRS+hzKYzgOQD/SeHP9H95xysi
+U5cZkNDn/NAV/9JXZtifLqBZheC8rwU=
+=Pmni
+-----END PGP SIGNATURE-----
