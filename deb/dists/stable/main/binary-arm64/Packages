@@ -1,0 +1,42 @@
+Package: rdownloader
+Architecture: arm64
+Version: 1.39.0
+Priority: optional
+Section: net
+Maintainer: DEGOYA.digital
+Installed-Size: 149223
+Depends: libc6 (>= 2.39), libgcc-s1
+Recommends: ffmpeg, yt-dlp, 7zip
+Filename: pool/main/r/rdownloader/rdownloader_1.39.0_arm64.deb
+Size: 70661496
+MD5sum: d8930e9a5a542ad7807c513b78c856ec
+SHA1: 457b3c0ac401acbb5c95bc4d35a8db8e3d93d023
+SHA256: dedf486dce51d460a5ba237817442b9bff0be16f125e897de434bb5b05742e8d
+SHA512: 6a77b60df045e2f5dd103869f4c72fc118064bb4562c1a1710fe479249c7174c71d89e639ae0a89c85d46b4fa1db836b398a6eb6af9a504a0086f683e4a38a73
+Homepage: https://rdownloader.net
+Description: Local-first download manager with a web interface
+ Links, NZB files, torrents and media pages in one queue, run as a user service with a web
+ interface on 127.0.0.1:8710; a desktop capture agent takes Click'n'Load, the clipboard and
+ .nzb files.
+
+Package: rdownloader
+Architecture: arm64
+Version: 1.39.1
+Priority: optional
+Section: net
+Maintainer: DEGOYA.digital
+Installed-Size: 149223
+Depends: libc6 (>= 2.39), libgcc-s1
+Recommends: ffmpeg, yt-dlp, 7zip
+Filename: pool/main/r/rdownloader/rdownloader_1.39.1_arm64.deb
+Size: 70677908
+MD5sum: afd34007f1da4497f4d9c71083647c2e
+SHA1: b8d9185f0631afc755322b88104804c98921a93b
+SHA256: a68a2475dd2bf51efc554dc438dfa51da63212ac013239c1c40401976c4502f6
+SHA512: f41b44b19f28db7b744b4da5114d04443bd78799be48f8f9c5cdf27157e06fb9362ea5ec45e0d458417e52bb780e83f581c8249b901364ebcc35be856468a070
+Homepage: https://rdownloader.net
+Description: Local-first download manager with a web interface
+ Links, NZB files, torrents and media pages in one queue, run as a user service with a web
+ interface on 127.0.0.1:8710; a desktop capture agent takes Click'n'Load, the clipboard and
+ .nzb files.
+
