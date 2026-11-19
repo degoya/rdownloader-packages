@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 19 Nov 2026 22:25:58 +0000
+Description: rDownloader packages
+Label: rDownloader
+Origin: rDownloader
+Suite: stable
+MD5Sum:
+ a1782e918f95f794cca6a371cde83902             1756 main/binary-amd64/Packages
+ feec67ee35a1d59ae3bb3060632accfd              814 main/binary-amd64/Packages.gz
+ 81594846237682fc21a68bd946222867             1756 main/binary-arm64/Packages
+ 324026f7690050b66d40d850264e0935              812 main/binary-arm64/Packages.gz
+SHA1:
+ 9c246f4992f42b736a48ef9d23c817b5c0c69c11             1756 main/binary-amd64/Packages
+ e7532d80a2116e0b202eadcde83e418ec555b352              814 main/binary-amd64/Packages.gz
+ 573e545193770bb9254fc6fb3285d5c908762b12             1756 main/binary-arm64/Packages
+ 6759e3be98f8ef1094e3c345086adbce236395cd              812 main/binary-arm64/Packages.gz
+SHA256:
+ fc55fdc1bc691d32a1a7e7421534d500a12150456be0d8ea8820fbddf953b5f9             1756 main/binary-amd64/Packages
+ a6820cfd6996e94ca7824be68e053e7a03400baf5ed41a208e466aad078d01c1              814 main/binary-amd64/Packages.gz
+ 8a8056890ad474b026b6a1a31c1e9993aca61253bb5f2fbab01a6943471ab209             1756 main/binary-arm64/Packages
+ 71c837d240eaf01702b5b3faa211d30d91e99b6df7fb20e80c96dc84456a53a9              812 main/binary-arm64/Packages.gz
+SHA512:
+ ee9444291945c5dea74b29b0ea66b2beeff9088d45ab78f0fe2e57da167a3ddcf1cbfb588bc42225c8f6ce667a822e6f0b8daaa065bfc238437a89084002f8ca             1756 main/binary-amd64/Packages
+ dee6776473f41743d755666be2a39dd5e6e0109cd30c761808f4c2edc03dd0283e48dca97cc1db118bbcd2364d13757112bcc87c41a6b2c27a2ab08e1b26ead9              814 main/binary-amd64/Packages.gz
+ a50c5860032367fa39d9c4532dca80b5546f01a13d443bd9d7ae485e0ac072ef94388652cb2105eb3bb30efa8d3c9e1b0ba8c0a3bb3865fb9d9ba8458d81b239             1756 main/binary-arm64/Packages
+ 5cbaeb1bf57d754b8cb5e111f8c0022ab96d4147bd578da436145d849aaafbb46652e1b5f4656b196adbfc1e190e7985f936bc61a410288eec988307843ce843              812 main/binary-arm64/Packages.gz

@@ -1,0 +1,13 @@
+# rDownloader for dnf (Fedora, RHEL) and zypper (openSUSE): /etc/yum.repos.d/rdownloader.repo
+# Packages and metadata are signed by 47562DABFCFC3F17C78567CE395FA7C2B11721D1. skip_if_unavailable=0: a repository that
+# fails its signature check stops dnf instead of being skipped with a warning (Fedora's default).
+[rdownloader]
+name=rDownloader
+type=rpm-md
+baseurl=https://degoya.github.io/rdownloader-packages/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+skip_if_unavailable=0
+gpgkey=https://degoya.github.io/rdownloader-packages/rdownloader.asc
+metadata_expire=6h
